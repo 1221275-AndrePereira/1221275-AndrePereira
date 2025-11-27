@@ -9,8 +9,7 @@ I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto
 - **Sports** - Despite never actually practicing sports at professional level, I have always been very fond of watching athletes breaking records, seeing my favorite teams win it all and searching how statistics shape the sports world and can actually find underrated athletes. Started liking the big 4 american sports in particular due to the employment of statistics.
 - **Gaming** - As most people of my generation, another hobby I have is gaming. My main playing consoles have been PC and PlayStation. I have been an avid achievement (trophy) hunter in PlayStation for some years now. Currently sitting at 79 platinum trophies and +4700 trophies spanning 6 years of dedication. Favorite game of all-time is Horizon: Zero Dawn. Favorite gaming franchise of all-time is Assassin's Creed.
 - **Movies and TV Series** - Avid Movies and TV Series viewer. Favorite movie franchise of all-time is Lord of the Rings.
-- **History** - Love to learn about stuff that happened before our time. Also combining this with other hobbies such as sports or gaming makes it even more exciting and sometimes even brings a bit of nostalgia.
-
+  
 ## 🌍 Languages
 
 - **Portuguese:** Native
