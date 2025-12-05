@@ -39,9 +39,13 @@ I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto
 
 ## 💻 My Personal Stack
 
-### Programming Languages I have worked on (so far)
+### Programming Languages I currently work on
 
-![Software](https://skillicons.dev/icons?i=c,cs,css,html,java,js,ts&perline=8)
+![Software](https://skillicons.dev/icons?i=cs,css,html,java,ts&perline=8)
+
+### Programming Languages I have used in the past but either i'm not skilled or don't use often
+
+![Software](https://skillicons.dev/icons?i=c,js,py&perline=8)
 
 ### Frameworks and Libraries I have used (so far)
 
