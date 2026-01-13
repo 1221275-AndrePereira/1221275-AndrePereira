@@ -51,7 +51,7 @@ I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto
 
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=angular,net,nodejs,threejs&perline=8" alt="Software" />
+    <img src="https://skillicons.dev/icons?i=angular,express,net,nodejs,threejs&perline=8" alt="Software" />
   </a>
   <a>
     <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="42" height="42" />
@@ -65,7 +65,7 @@ I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto
 
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=3" alt="Software" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=3" alt="Software" />
   </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
   </a>
