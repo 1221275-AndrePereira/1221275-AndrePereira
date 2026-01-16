@@ -43,7 +43,7 @@ I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto
 
 ![Software](https://skillicons.dev/icons?i=cs,css,html,java,ts&perline=8)
 
-### Programming Languages I have used in the past but either i'm not skilled or don't use often
+### Programming Languages I have used in the past but don't use often
 
 ![Software](https://skillicons.dev/icons?i=c,js,py&perline=8)
 
