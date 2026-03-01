@@ -1,6 +1,6 @@
 # André Castro Pereira
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hello There 
+## About Me 
 
 I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto (ISEP)](https://www.isep.ipp.pt/), currently in my fourth year in college.
 
