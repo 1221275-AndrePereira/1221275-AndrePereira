@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto (ISEP)](https://www.isep.ipp.pt/), currently in my fourth year in college.
+I’m a **Software Engineering student** at [Instituto Superior Engenharia Porto (ISEP)](https://www.isep.ipp.pt/)
 
 ## 🎮 My Hobbies  
 
